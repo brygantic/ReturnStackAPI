@@ -61,7 +61,11 @@ docs/_build/
 target/
 
 # Security
-ReturnStackAPI/ReturnStackAPI/settings.py
+ReturnStackAPI/ReturnStackAPI/secure.py
+
+
+
+
 
 
 
